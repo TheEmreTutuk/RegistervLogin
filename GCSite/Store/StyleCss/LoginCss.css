@@ -1,0 +1,54 @@
+﻿{
+    * margin: 0px;
+    padding: 0px
+}
+
+body {
+    background-size: 100%;
+    font-family: Calibri;
+    background-image: url('../images/arkaplan.jpg');
+}
+
+
+.MainBox {
+    width: 400px;
+    height:90%;
+    margin: 100px auto;
+    border: 1px solid silver;
+    background-color: white;
+    border-radius: 20px;
+    text-align:center
+}
+
+.Nams {
+    color: #202020;
+    font-size:15pt;
+}
+
+
+.TextBtns {
+    border-radius: 10px;
+    color: black;
+    padding:10px;
+    margin-top: 10px;
+    font-size:10pt;
+}
+
+.TextBtns :hover{
+    border:1px solid brown;
+}
+
+.imgBtn {
+    width:40px;
+
+}
+
+.msj {
+    margin-top:15px;
+    color: #ffbaba;
+    background-color: #ff0000;
+    border-radius: 7px;
+    border: 1px solid #474747;
+    display:inline-block;
+    white-space: pre-line;
+}
